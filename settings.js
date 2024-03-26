@@ -19,16 +19,16 @@ module.exports = {
   OWNER_NUMBER: "94769149101",
   SUDO_NUMBERS : "94719014166,94769149101",
   OWNER_NAME: "『 𝚖𝚛.𝚁 𝚈 𝙶𝙾𝙳𝙰𝙺𝙰𝙽𝙳𝙰 』",
-  BOT_NAME : "R A V I N D U B O T z",
+  BOT_NAME : "RAVINDU BOTz",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://ibb.co/1Mnx4w0',
+    ALIVE: '[url=https://ibb.co/1Mnx4w0][img]https://i.ibb.co/kJyFPWG/IMG-20240323-140649-597-2.jpg[/img][/url]',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
-        GOODBYE_MESSAGE : false
+        WELCOME_MESSAGE : true,
+        GOODBYE_MESSAGE : true
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : true,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '😗',
+  OWNER_REACT : '🗿',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
