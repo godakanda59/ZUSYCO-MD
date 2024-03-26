@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "94769149101",
+  SUDO_NUMBERS : "94719014166,94769149101",
+  OWNER_NAME: "『 𝚖𝚛.𝚁 𝚈 𝙶𝙾𝙳𝙰𝙺𝙰𝙽𝙳𝙰 』",
+  BOT_NAME : "R A V I N D U B O T z",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -34,9 +34,9 @@ module.exports = {
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
-  WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  WORK_MODE_MESSAGE_SEND : true,
+  CAPTION : '𝚁 𝚈 𝙶𝙾𝙳𝙰𝙺𝙰𝙽𝙳𝙰 𝙱𝙾𝚃𝚣',
+  STICKER_PACK : '[ 𝚁 𝚈_ 𝙶 ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -48,14 +48,14 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
-     ONLY_COMMANDS : false,
-     STATUS : false,
+     ALL_MESSAGES : false,
+     ONLY_COMMANDS : true,
+     STATUS : true,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
-  OWNER_REACT : '🤵‍♂️',
+  AUTO_REACT : true,
+  OWNER_REACT : '😗',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
@@ -72,7 +72,7 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : false,
+  AUTO_STICKER : true,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
