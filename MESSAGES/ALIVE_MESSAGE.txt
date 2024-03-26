@@ -1,1 +1,1 @@
-default
+/MESSAGES/ALIVE_MESSAGE.txt) Hi_Broh
