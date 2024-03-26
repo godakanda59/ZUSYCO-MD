@@ -1,11 +1,12 @@
 {
-    "name": "R Y GODAKANDA-MD",
-    "description": "This is an R Y GODAKANDA-MD whatsapp bot created by mr ravindu."
-    "logo": "[url=https://ibb.co/1Mnx4w0][img]https://i.ibb.co/kJyFPWG/IMG-20240323-140649-597-2.jpg[/img][/url]",
+    "name": "ZUSYCO-MD",
+    "description": "This is an ZUSYCO-MD whatsapp bot created by mr nima.",
+    "repository": "https://github.com/DarkMakerofc/ZUSYCO-MD",
+    "logo": "https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg",
     "keywords": [
         "nodejs",
         "Bot",
-        "WhatsApp RAVINDU-MD Bot"
+        "WhatsApp ZUSYCO-MD Bot"
     ],
     "buildpacks": [
         {
