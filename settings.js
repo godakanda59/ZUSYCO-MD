@@ -16,7 +16,7 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94719014166",
+  OWNER_NUMBER: "94769149101",
   SUDO_NUMBERS : "94719014166,94769149101",
   OWNER_NAME: "『 𝚖𝚛.𝚁 𝚈 𝙶𝙾𝙳𝙰𝙺𝙰𝙽𝙳𝙰 』",
   BOT_NAME : "RAVINDU BOTz",
@@ -32,7 +32,7 @@ module.exports = {
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
-  WORK_TYPE : "public",
+  WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '𝚁 𝚈 𝙶𝙾𝙳𝙰𝙺𝙰𝙽𝙳𝙰 𝙱𝙾𝚃𝚣',
