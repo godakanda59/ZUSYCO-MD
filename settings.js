@@ -16,10 +16,10 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94769149101",
-  SUDO_NUMBERS : "94719014166,94769149101",
-  OWNER_NAME: "『 𝚖𝚛.𝚁 𝚈 𝙶𝙾𝙳𝙰𝙺𝙰𝙽𝙳𝙰 』",
-  BOT_NAME : "RAVINDU BOTz",
+  OWNER_NUMBER: "94719014166",
+  SUDO_NUMBERS : "94719014166,94769149101,94769382590",
+  OWNER_NAME: "『 Mr: R Y GODAKANDA 』",
+  BOT_NAME : "RAVINDU BOTZ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: '[url=https://ibb.co/1Mnx4w0][img]https://i.ibb.co/kJyFPWG/IMG-20240323-140649-597-2.jpg[/img][/url]',
@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : true,
-  CAPTION : '𝚁 𝚈 𝙶𝙾𝙳𝙰𝙺𝙰𝙽𝙳𝙰 𝙱𝙾𝚃𝚣',
+  CAPTION : 'R Y GODAKANDA-MD',
   STICKER_PACK : '[ 𝚁 𝚈_ 𝙶 ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
