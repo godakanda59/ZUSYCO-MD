@@ -27,8 +27,8 @@ module.exports = {
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : true,
-        GOODBYE_MESSAGE : true
+        WELCOME_MESSAGE : false,
+        GOODBYE_MESSAGE : false,
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
@@ -36,13 +36,13 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : 'R Y GODAKANDA-MD',
-  STICKER_PACK : '[RAVINDU]',
+  STICKER_PACK : '[ RAVINDU ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
-  MAX_SIZE : 300,
+  MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
         BLOCK : false,
         NOT_WORKING : false,
@@ -52,9 +52,9 @@ module.exports = {
      ONLY_COMMANDS : true,
      STATUS : true,
   },
-  BOT_OFFLINE : false,
+  BOT_OFFLINE : true,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
+  AUTO_REACT : true,
   OWNER_REACT : '😗',
   AUTO_BGM : false,
   BGM : {
