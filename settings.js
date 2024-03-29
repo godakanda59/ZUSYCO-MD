@@ -36,7 +36,7 @@ module.exports = {
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : 'R Y GODAKANDA-MD',
-  STICKER_PACK : '[ 𝚁 𝚈_ 𝙶 ]',
+  STICKER_PACK : '[RAVINDU]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
@@ -52,10 +52,10 @@ module.exports = {
      ONLY_COMMANDS : true,
      STATUS : true,
   },
-  BOT_OFFLINE : true,
+  BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : true,
-  OWNER_REACT : '🗿',
+  AUTO_REACT : false,
+  OWNER_REACT : '😗',
   AUTO_BGM : false,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
@@ -72,7 +72,7 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : true,
+  AUTO_STICKER : false,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
