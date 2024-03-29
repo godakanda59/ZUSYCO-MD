@@ -22,7 +22,7 @@ module.exports = {
   BOT_NAME : "RAVINDU BOTZ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: '[url=https://ibb.co/1Mnx4w0][img]https://i.ibb.co/kJyFPWG/IMG-20240323-140649-597-2.jpg[/img][/url]',
+    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
