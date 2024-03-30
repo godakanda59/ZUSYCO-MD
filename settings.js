@@ -18,7 +18,7 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "94719014166",
   SUDO_NUMBERS : "94719014166,94769149101,94769382590",
-  OWNER_NAME: "『 Mr: R Y GODAKANDA 』",
+  OWNER_NAME: "『 MR: R Y GODAKANDA 』",
   BOT_NAME : "RAVINDU BOTZ",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
@@ -54,7 +54,7 @@ module.exports = {
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : true,
+  AUTO_REACT : false,
   OWNER_REACT : '😗',
   AUTO_BGM : false,
   BGM : {
