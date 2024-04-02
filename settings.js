@@ -19,7 +19,7 @@ module.exports = {
   OWNER_NUMBER: "94719014166",
   SUDO_NUMBERS : "94719014166,94769149101,94769382590",
   OWNER_NAME: "『 MR: R Y GODAKANDA 』",
-  BOT_NAME : "RAVINDU BOTZ",
+  BOT_NAME : "RY GODAKANDA-MD",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -35,10 +35,10 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlyinbox",
   WORK_MODE_MESSAGE_SEND : true,
-  CAPTION : 'GODAKANDA-MD',
-  STICKER_PACK : '[ R Y g ]',
+  CAPTION : 'RY GODAKANDA-MD',
+  STICKER_PACK : '[ R Y GODAKANDA-MD ]',
   BAD_WORDS : 'fuck,pussy',
-  ANTI_BAD : false,
+  ANTI_BAD : true,
   ANTI_LINKS : 'chat.whatsapp.com',
   ANTI_LINK : false,
   ANTI_LINK_KICK : false,
@@ -72,7 +72,7 @@ module.exports = {
     "thugs" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-thugs.mp3",
 
   },
-  AUTO_STICKER : true,
+  AUTO_STICKER : false,
   STICKERS : {
     "pit" : "https://i.ibb.co/NVLMQDP/pit.webp",
     "agei" : "https://i.ibb.co/yqk8QQ9/agei.webp",
