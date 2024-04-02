@@ -33,7 +33,7 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "onlyinbox",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : 'GODAKANDA-MD',
   STICKER_PACK : '[ R Y g ]',
